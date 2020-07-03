@@ -10,18 +10,22 @@
 #   url: /notes
 #   external: false
 
+- title: Home
+  url: /academic
+  external: false
+
 
 - title: Archives
-  url: /archives
+  url: /academic/archives
   external: false
 
 
 - title: Projects
-  url: /projects
+  url: /academic/projects
   external: false
 
 - title: Blog
-  url: /blog
+  url: /academic/blog
   external: false
 
 # - title: Reading List
