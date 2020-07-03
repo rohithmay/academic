@@ -152,7 +152,7 @@ Template for latest updates here
 
                 This webpage is a repository of my projects and academic notes, predominantly in the fields of machine learning, macroeconomics, corporate finance, linear algebra and quantum computing. This page also doubles as my blog where I post occasional musings on life as it ebbs and flows. -->
 
-                <a href="/rbi2020">
+                <a href="/academic/rbi2020">
                 <button type="button" class="btn btn-secondary"> <strong> Exchange Rate Volatility </strong></button> </a>
 
                 <!-- <a href="https://rohithmay.github.io/macroeconomics-20">
